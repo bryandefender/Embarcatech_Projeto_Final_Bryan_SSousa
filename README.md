@@ -27,7 +27,7 @@ O Raspberry pi pico W com microcontrolador RP2040 unido aos outros componentes, 
 
 ### 4.Fluxograma
 
-![Fluxograma](https://github.com/bryandefender/Embarcatech_Projeto_Final_Bryan_SSousa/blob/main/imagens_projeto_final/1_Fluxograma.png)
+<img src="https://github.com/bryandefender/Embarcatech_Projeto_Final_Bryan_SSousa/blob/main/imagens_projeto_final/1_Fluxograma.png">
 
 ### 5.Código
 
