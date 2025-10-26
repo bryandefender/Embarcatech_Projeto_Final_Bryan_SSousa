@@ -46,7 +46,7 @@ LED verde -> Mostra que a placa está ligada, desliga quando o RESET é pression
 Observação¹: Todos os pinos GPIO suportam PWM
 Observação²: O Botão RESET foi configurado para evitar desplugar o cabo USB para executar o BOOTSEL.
 
-### 7.Estrutura Física do Sistema
+### 7. Estrutura Física do Sistema
 
 Imagem 2 - Estrutura física do sistema
 <img src="https://github.com/bryandefender/Embarcatech_Projeto_Final_Bryan_SSousa/blob/main/imagens_projeto_final/3_Estrutura_F%C3%ADsica.jpg">
